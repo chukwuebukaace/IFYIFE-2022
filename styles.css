@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-color: white;
+}
+h1,
+h2 {
+  font-family: "emoji", calibri;
+}
+body,
+html {
+  height: 100%;
+}
+p {
+  line-height: 2;
+}
+.bgimg {
+  filter: blur(0px);
+  -webkit-backdrop-filter: blur(px);
+  height: 50%;
+  background-position: center;
+  background-size: contain;
+  background-image: url("IFY6.JPG");
+  background-repeat: repeat-x;
+  padding: 20em;
+}
+
+.bgimg2 {
+  height: 90%;
+  background-position: center;
+  background-size: contain;
+  background-image: url("IFY1.JPG");
+  padding: 20em;
+}
